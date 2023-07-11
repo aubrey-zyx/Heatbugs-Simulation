@@ -17,3 +17,4 @@ _minIdealTemp/maxIdealTemp_: The minimum and maximum ideal temperatures for heat
 _minOutputHeat/maxOutputHeat_: The minimum and maximum heat that heatbugs generate each cycle. Each bug is given a _outputHeat_ value between the min and max output heat.   
 _time_: The number of rounds of the experiment.  
 After pressing "start", the image at the bottom left will display the real-time motion of heatbugs, and the graph at the bottom right will show how _unhappiness_ change with time.  
+![image](https://github.com/aubrey-zyx/Heatbugs-Simulation/assets/108720789/c2994e29-c135-4cec-bb3d-9d2a92d7fcf9)
